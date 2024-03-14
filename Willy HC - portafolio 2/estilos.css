@@ -1,0 +1,19 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: cornflowerblue;
+}
+.sec1, .botones, .boton1, .boton2, .boton3, .boton4{
+    background-color: rgba(0, 0, 0,80%);
+    color: white;
+    width: 70%;
+}
+img{
+    width: 150px;
+    border-radius: 50%;
+}
+.botones{
+    visibility: hidden;
+}
+.boton1, .boton2, .boton3, .boton4{
+    visibility: hidden;
+}
